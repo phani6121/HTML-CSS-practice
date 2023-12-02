@@ -1,0 +1,26 @@
+h1{
+    color:green;
+    font-size: 5rem;
+}
+h2{
+   color:blue ; 
+   font-size: 4rem;
+}
+
+/* 
+CSS rules
+1. selectors
+ha and h2
+2. decleration block
+{
+
+}
+3. decleration
+color: green;
+font-size: 5rem;
+4. property
+color
+font-size
+5. value
+green
+5rem*/
