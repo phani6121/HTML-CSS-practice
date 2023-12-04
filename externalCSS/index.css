@@ -1,3 +1,8 @@
+ /* CSS= CASCADING STYLE SHEETS
+ Responsible for styling the web
+ HTML- structure,CSS layout,look
+ selector{property:value; property:value;} */
+
  h1 {
     color: green;
     font-size: 5rem;
@@ -55,10 +60,10 @@ h1,h2 {
 #heading{
     color: blue;
     background: black;
-}
+} */
 
 /* CLASS */
-.red{
+ .red{
     color: red;
 }
 .green{
@@ -73,3 +78,32 @@ Both are same but css sintax different in id used '#'and in class '.' */
 .lowercase{
     text-transform: lowercase;
 }
+/* DIV AND SPAN 
+Dive is the block element its applicable for whole block 
+Span is line element its applicable for the particular selected words */
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+div{
+    color: aqua;
+}
+span{
+    text-transform: uppercase;
+}
+/* INHERITANCE
+It means some styles we can apply to parent it is automatically appplicable to childrens also  */
+div {
+    color: brown;
+    border: 2px solid pink;
+}
+h1 {
+    color: aqua;
+    border: 2px solid pink ;
+}
+/* LAST RULE AND SPECIFICITY * UNIVERSEL SELECTOR 
+Last rule means if we are given two rules for one element to check and take the specific rule taken if both are normal it takes last rule
+specificity is also same like last rule it takes specificity rule 
+Star * is the universal selector it applicable to entire elements */
