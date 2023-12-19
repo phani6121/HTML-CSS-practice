@@ -13,7 +13,7 @@ h2 {
     font-size: 4rem;
 }
 
-/* 
+/*  
 CSS rules
 1. selectors (h1 and h2)
 2. decleration block
@@ -107,3 +107,54 @@ h1 {
 Last rule means if we are given two rules for one element to check and take the specific rule taken if both are normal it takes last rule
 specificity is also same like last rule it takes specificity rule 
 Star * is the universal selector it applicable to entire elements */
+
+/* CSS TUTORIAL
+1. colors ,background colors, background
+2. colors names 
+3. rgb rgba
+4. visual studio color options
+5. external resorces  */
+
+/* 
+color properties is the given color to headings or paragraph
+background color is the given color for the background to heading or paragraph
+color names there are 140 basic color names are there.
+RGB RED BLUE GREEN 0-255
+This formet used to thick colors are formed 
+This formate is apply for large projects for using many colors 
+This formate like [rgb(255,255,255)]
+And also used for background colors 
+RGBA 0-1 OPACITY/TRANSPARENCY
+This is very powerful and colors are very light 
+And those are used for the backgrounds 
+formate like [rgba(0,0,0,0.5)]
+And also like [rgba(200,240,120,0.3)]
+that fourth coordinator is that dark color change to lighter 
+At here four coordinators are there 
+ */
+
+ /* CSS TUTORIAL
+ 1. Absolute, relative
+ 2. pixels
+ 3. em,rem
+ 4. vw,vh
+ 5. font size,hight,width */
+
+ /* 
+ Relative depends on the perent
+ and also relative font size depends upon screen
+ Absolute is the standard in any screen 
+ pixels is the units of length and width and hight 
+ em is depends on the perent 
+ rem 16 px defolt size brower defolt style 
+ vw is width of the given data 
+ It is based on the screen size 
+ vh is hight of the given data 
+ And it is also based on the screen size
+  */
+
+  /* 
+  Calc function perform addtion,subtraction,multiplication and divison 
+  in this function calculated the page more beautiful */
+/* 
+ */
