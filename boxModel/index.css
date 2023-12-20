@@ -1,0 +1,75 @@
+/* 
+Margin 
+border
+padding
+contant
+broder radius
+negitive margin*/
+
+h1{
+    background: red;
+
+    padding-top: 30px;
+    padding-bottom: 35px;
+    padding-left: 33px;
+    padding-right: 40px;
+
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-right: 40px;
+    margin-left: 33px;
+
+    border-style: solid;  
+    border-width: 10px; 
+    border-color: green;
+
+    /* border-bottom-style: dashed;
+    border-bottom-width: 10px;
+    border-bottom-color: pink; */
+
+    border-radius: 50px;
+    /* border radius is the shape of curve at edges */
+
+
+}
+p{
+    background: blue;
+    /* padding: 50px; this is one method of padding all sides 50 px*/
+    /* padding: 30px 60px; this is another method it consider as top bottom first value and left right second value */
+    /* padding: 20px 30px 40px 50px; this is third method at here 4 values 1 top 2 right 3 bottom 4 left */
+    padding: 50px; 
+    margin: 50px;
+     /*margin also same like padding and also same methods for access  */
+    border: 12px solid yellow;
+    
+    border-radius: 50%;
+
+    /* margin: -40px; negitive margin is decrese the space between two boxes */
+}
+/* 
+outline
+offset 
+Outline operation is we can able to adjust the border of the box positive eighter negitive 
+ */
+.buttons{
+    margin: 3rem;
+} 
+a{
+    background: red;
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+    color: black;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: 20px; 
+}
+#one{
+    border: 0.2rem solid black ;
+}
+#two{
+    outline-width: 0.2rem;
+    outline-style: solid;
+    outline-color: black;
+    outline-offset: 10px;
+    outline-offset: -10px;
+}
