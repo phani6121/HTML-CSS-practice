@@ -1,0 +1,27 @@
+/* default display property
+block: always starts a new line and takes full width
+inline: does not start and only take up as much as content space 
+horizontal centering  */
+/* body{
+    text-align: center;
+} */
+
+.block{
+    background: blue;
+    color: white;
+    /* display: inline; */
+    width: 140px;
+    /* margin: 20px auto; its adjust center */
+    /* margin-left: auto; its adjust right */
+    /* margin-right: auto; its defolt not adjust*/
+}
+.inline{
+    background: red;
+    color: white;
+    /* display: block; */
+}
+/* list style type property 
+at here perent and child access in css  */
+ul li{
+    list-style-type: none;
+}
