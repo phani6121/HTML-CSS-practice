@@ -1,0 +1,74 @@
+/*
+back ground: url (image.jpeg)
+background-repeat
+background-size
+background-position
+background-attachment
+shorthand syntax
+*/
+/* 
+this is the background url image in css
+
+last rule: if example we are given value of height is 200px
+after next line we are given height value given 100px it will chage to 100px nothig but height any property same like this is last rule
+
+background repeat have many values are there example repeat,space,circle like that.
+
+background size is to set the image to adjust the perfect to that space.If we are take small image to zoom and adjust that image in that space 
+
+background position is to set the image at center,left,right
+
+background attachments is the fixed to the image and da5a is moving like that
+*/
+
+/* 
+background liner gradient properties */
+div{
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.one{
+    background: linear-gradient(red, green);
+}
+.two {
+    background: linear-gradient(to top,red, green);
+}
+.three {
+    background: linear-gradient(300deg, red, green);
+}
+.four {
+    background: linear-gradient(to top right, red, green);
+}
+.five {
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.9));
+}
+.six {
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9));
+}
+
+/* div{
+    height: 400px;
+    color: red;
+}
+.big-image{
+    background: url("./big\ image.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+     
+}
+.small-image {
+    border: 2px solid red;
+    background: url("./small\ image.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.folder-image {
+    background: url("./folder\ image.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+} */
