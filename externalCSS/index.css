@@ -188,4 +188,33 @@ At here four coordinators are there
   opacity property is to increase and decrese the brightness of the data and also if we are given value is zero data is disappper 
   
   visibility property is like there are some values like hidden, visible */
+  /* 
+  float, clear
+  position: static,relative,absolute,fixed
+  media-queries
+  z-index
+  ::before and ::after pseudo elements
+  
+  float: If the paragraph and image both are in css to adjust the image left and right is called float
+  
+  clear: It is also same like float but in clear property to clear the paragraph besides that image means adjust the paragraph  
+  
+  position static: In position any value given perent that can applicable to child also and if child have sub child not applicable to that one if we are given value is static defoult applyicable to all 
+  
+  position relative: In relative position given data like heading or paragraph to adjust any where in the css page 
+
+  absolute position: In absolute position data is set to corner to the left and right of up and down
+
+  position fixed: in fixed position data is fixed at that place 
+
+  pseudo element::after ::before
+  In this element must wrote contant and no problem if not given value to contant. given that contant applicable to all properties 
+  At here 
+
+  whwn we are used before element that contant add before of the data same like after data adding at after
+  */
+  /* 
+  basic selectors
+  pseudo class selectors
+  pseudo element selectors*/
 
