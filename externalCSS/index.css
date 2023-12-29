@@ -218,3 +218,62 @@ At here four coordinators are there
   pseudo class selectors
   pseudo element selectors*/
 
+  /* 
+  In descendent we are used to > this symble in descendent selectors value applicable to only direct child of the perent 
+  
+ :: first -line :: first letter
+ In first line to change the first line of the paragraph
+ 
+ In first letter to change the first latter of the first line 
+ 
+ :hover 
+ In hover we can given then the value of the it will be change when we are hover the arrow on the the data.
+
+ :link 
+ In link we can give the values by using the line word it will change the all link propertires 
+
+ :visited
+ In visited whwn we are visited that perporties values will be changed 
+
+ :active 
+In active when we are active the link in that time that link properties will be changed */
+
+/* 
+transform: translate() ,rotate() ,scale() ,skew()
+transition( change over time)
+animation: (channge over time with points)
+
+Translate:
+In translate we can change the place of the diagram in y and x direction with values
+
+rotate:
+In rotate we can rotate the diagram in x and y axis with degrees
+
+scale:
+In scale we can adjust the size of the diagrams in x and y axis with values 
+
+skew: 
+In skew we can change the shape of the diagram in x and y axis with degrees
+
+transition(change over time)
+transition-property
+transition-duration
+
+In transition property we can use the hover and given value of the data in that time when we are hover the arrow its automatically change that property
+
+In transition duration same like property but at her there is mention the time 
+
+In transition dealy if we are oen the diagram it is visiable after the given value
+*/
+
+/* 
+how the transition takes place 
+transition-timing-function
+transition: all 3s here 5s
+ease = default
+ease = slow start,fast,slow end 
+linear = same speed start to end 
+ease-in = slow start
+ease-out = slow end 
+ease-in-out = slow start,fast,slow end */
+

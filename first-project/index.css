@@ -1,0 +1,300 @@
+.header-main {
+    display: flex;
+}
+
+header {
+    background: white;
+}
+
+.logo {
+    display: flex;
+    margin-top: 10px;
+}
+
+.logo .text {
+    padding-top: 5px;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+
+span {
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+
+.logo2 {
+    padding-left: 600px;
+}
+
+.logo2 ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    color: #29b76a;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.second {
+    color: white;
+    font-size: 15px;
+    height: 30px;
+    width: 110px;
+    background: #29b76a;
+    padding: 10px;
+    padding-left: 11px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 10px;
+    font-family: sans-serif;
+
+}
+
+.head {
+    margin-top: -10px;
+    margin-left: -11px;
+    padding: 10px;
+
+}
+
+.sub-head {
+    background: #29b76a;
+    width: 100%;
+    height: 250px;
+    margin-top: -20px;
+}
+
+.sub-div {
+    text-align: center;
+    color: white;
+}
+
+.sub-div .search {
+    color: gray;
+    font-size: 20px;
+    margin-top: 11px;
+    margin-left: -35px;
+}
+
+h1 {
+    padding-top: 40px;
+    font-size: 40px;
+    margin: 19px;
+    font-family: sans-serif;
+
+}
+
+h3 {
+    margin-top: -2px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+input {
+    width: 600px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: none;
+    padding-top: 4px;
+    margin-top: 8px;
+}
+
+.one {
+    width: 185px;
+    height: 80px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(415deg, -19deg);
+    margin-top: -155px;
+    margin-left: -71px;
+    border-radius: 7px;
+}
+
+.two {
+    width: 162px;
+    height: 167px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(354deg, 184deg);
+    margin-top: -31px;
+    margin-left: -71px;
+    border-radius: 7px;
+}
+
+.three {
+    width: 168px;
+    height: 135px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(388deg, 173deg);
+    margin-top: -244px;
+    margin-left: 1074px;
+    border-radius: 7px;
+}
+
+.four {
+    width: 248px;
+    height: 135px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(321deg, 184deg);
+    margin-top: -50px;
+    margin-left: 1151px;
+    border-radius: 7px;
+}
+
+.container-1 {
+    display: flex;
+    margin-top: 36px;
+}
+
+.container-2 {
+    display: flex;
+    margin-top: -21px;
+}
+
+.container-3 {
+    display: flex;
+    margin-top: -21px;
+}
+
+
+.box-1 {
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    font-family: sans-serif;
+
+}
+
+.box-2 {
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+.box-3 {
+    border: 1px gray solid;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+.allign-1 {
+    display: flex;
+    font-size: 20px;
+}
+
+.allign-2 {
+    display: flex;
+    font-size: 20px;
+}
+
+.allign-3 {
+    display: flex;
+    font-size: 20px;
+}
+
+.allign-1 i {
+    font-size: 20px;
+    margin: 20px;
+    color: #29b76a;
+}
+
+.allign-2 i {
+    font-size: 20px;
+    margin: 20px;
+    color: #29b76a;
+}
+
+.allign-3 i {
+    font-size: 20px;
+    margin: 20px;
+    color: #29b76a;
+}
+
+.allign-1 h3 {
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bolder;
+}
+
+.allign-2 h3 {
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bolder;
+}
+
+.allign-3 h3 {
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bolder;
+}
+
+
+.sub-head1 {
+    background: #29b76a;
+    width: 100%;
+    height: 250px;
+    margin-top: 31px;
+}
+
+.sub-div1 {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    padding-top: 40px;
+    font-size: 34px;
+    margin: 19px;
+    font-family: sans-serif;
+
+}
+
+.sub-div1 p {
+    color: white;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+
+.one {
+    width: 185px;
+    height: 80px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(415deg, -19deg);
+    margin-top: -155px;
+    margin-left: -71px;
+    border-radius: 7px;
+}
+
+.two {
+    width: 162px;
+    height: 167px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(354deg, 184deg);
+    margin-top: -31px;
+    margin-left: -71px;
+    border-radius: 7px;
+}
+
+.three {
+    width: 168px;
+    height: 135px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(388deg, 173deg);
+    margin-top: -244px;
+    margin-left: 1074px;
+    border-radius: 7px;
+}
+
+.four {
+    width: 248px;
+    height: 135px;
+    background-color: rgb(245, 245, 245, 0.1);
+    transform: skew(321deg, 184deg);
+    margin-top: -50px;
+    margin-left: 1151px;
+    border-radius: 7px;
+}
